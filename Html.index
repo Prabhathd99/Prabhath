@@ -1,0 +1,98 @@
+< DOCTYPE html
+
+<html>
+ <head>
+ 
+ </
+ <DOCTYPE html>
+
+<html>
+<head>
+
+</head>
+<body>
+
+<h1> List of Item </h1>
+
+<p> Favourite Movies </p>
+<u1>
+   <li> Tatanic </li>
+   <li> 3 idiots </li>
+   <li> Jurasic Park </li>
+   
+<ul>
+
+<p> Course Taken this Semester </p>
+   <ol>
+       <li> Web Programming </li>
+       <li> Database </li>
+   </ol>
+   
+   
+<p> Actors in the movies </p>
+
+<ol>
+   <li> Titanic 
+       <ul>
+           <li> Leanardo </li>
+           <li> Kate </li>
+          </ul>
+        </li>
+        
+        <li>
+        3 idiots
+        <ul>
+           <li> Aamir </li>
+            <li> Madhavan </li>
+                <li> Raju </li>
+             </ul>
+                
+             
+        </li>
+        
+        <li>
+           Jurasic Park
+         </li>
+         
+        </ol>
+           
+        </ol> Definition Lists </h1>
+        
+        <dt>
+            <dt> Computer </dt>
+            <dd> A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation).
+            </dd>
+            
+               <dt> Sushi </dt>
+                  <dd> We are Shushi Architects. We are a creative team focusing on designing buildings, but further, the environment surrounding the built structures. </dt>
+          <dt> Car </dt>
+              <dd> A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat one to eight people, have four wheels, and mainly transport people, not cargo.
+ </dt>
+            </dl>
+            
+ <hr>
+ <hr>
+ 
+ <a href= " https://www.google.com/search?q=car+definition&sca_esv=ddd81285843a68ee&sca_upv=1&rlz=1C1YTUH_jaJP1076JP1076&sxsrf=ACQVn0-0ogUOOhDjE9J-0XB9u1Ak-7WxiA%3A1713941105417&ei=caooZuCBGbGmvr0P_KiOyAU&oq=car+defi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGNhciBkZWZpKgIIADIPEAAYgAQYQxiKBRhGGPkBMgUQABiABDIHEAAYgAQYCjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyKRAAGIAEGEMYigUYRhj5ARiXBRiMBRjdBBhGGPkBGPQDGPUDGPYD2AEDSLKPAVDYBViagQFwCngBkAEAmAHJAaAB7AqqAQUwLjcuMbgBAcgBAPgBAZgCEqACihWoAhPCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAhkQLhiABBiwAxjRAxhDGMcBGMgDGIoF2AEBwgITEC4YgAQYsAMYQxjIAxiKBdgBAcICFhAuGIAEGLADGEMY1AIYyAMYigXYAQHCAgoQIxiABBgnGIoFwgIKEAAYgAQYQxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAgcQIxgnGOoCwgITEAAYgAQYQxi0AhiKBRjqAtgBAsICHBAuGIAEGNEDGEMYtAIYxwEYyAMYigUY6gLYAQHCAhYQLhiABBhDGLQCGMgDGIoFGOoC2AEBwgIKEC4YgAQYQxiKBcICDBAAGIAEGEMYigUYCsICKRAAGIAEGEMYigUYRhj5ARiXBRiMBRjdBBhGGPkBGPQDGPUDGPYD2AEDmAMHiAYBkAYTugYGCAEQARgIugYGCAIQARgBugYGCAMQARgTkgcKMTAuNi4xLjctMaAHiFE&sclient=gws-wiz-serp"
+target= "_blank" > Information about Car </a>
+<br>
+<a href= " https://www.kcg.edu/en/school-info"
+target= "_blank" > Information about KCGI </a>
+
+<p> Send me an email : <a
+href="mailto:a_prabhathdilshan119@gmail.com">a_prabhathdilshan119@gmail.com
+</a> </p>
+
+
+        
+     
+   
+   
+   </li>
+   
+</ol>
+   
+   
+ </body>
+       
+  
